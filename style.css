@@ -52,10 +52,6 @@ footer {
     text-align: center;
 }
 
-.main-image {
-    width: 65%;
-}
-
 .main-text {
     width: 30%;
     margin: auto 0 auto auto;
@@ -266,9 +262,8 @@ footer img {
         display:block;
     }
 
-    .main-image, .main-text {
+    .plan-image, .main-text {
         width: 100%;
-        text-align: center;
     }
 
     .main-text {
